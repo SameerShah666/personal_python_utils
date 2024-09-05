@@ -4,4 +4,10 @@ A few utilities required for development purpose
 - extracts textual data available in PDF.
 - extracts unique words in the available text.
 ## Credly Badges extractor
-- extract any data about an badge issued to you
+- extract the following data about an badge issued to you
+  - badge id
+  - date of issuance
+  - date of expiry
+  - badge name
+  - issuer
+  - description
