@@ -11,3 +11,6 @@ A few utilities required for development purpose
   - badge name
   - issuer
   - description
+## Pinata API requester
+- can store files to the decentralized File storage (IPFS).
+- can retrieve files from the decentralized File storage (IPFS).
